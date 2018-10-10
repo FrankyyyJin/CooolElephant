@@ -7,3 +7,5 @@ changed third
 changed fourth
 
 现在是没使用 git checkout
+
+i can success
